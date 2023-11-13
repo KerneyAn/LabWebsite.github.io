@@ -1,5 +1,5 @@
 
-# KerneyAn's Website
+# Lab Website
 
 Visit **[kerneyan.github.io/LabWebsite.github.io](https://kerneyan.github.io/LabWebsite.github.io)** 🚀
 
