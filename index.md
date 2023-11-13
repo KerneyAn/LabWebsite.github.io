@@ -1,13 +1,13 @@
 ---
 ---
 
-# KerneyAn's Website
+# Russell Microbial Symbiosis Lab
 
-An engaging 1-3 sentence description of your lab.
+Research lab at the University of California Santa Cruz working to understand the evolutionary and molecular mechanisms underlying host-symbiont interactions.
 
 {% include section.html %}
 
-## Highlights
+## About Us 
 
 {% capture text %}
 
